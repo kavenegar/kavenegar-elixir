@@ -49,30 +49,28 @@ Bug fixes, docs, and enhancements welcome! Please let us know <a href="mailto:su
 
 
 
-## Persian tutorial / راهنمای فارسی
-###راهنما
-در صورتی که مایل هستید راهنمای فارسی کیت توسعه کاوه نگار را مطالعه کنید به سفحه 
-<a href="http://kavenegar.com/sdk.html">کد ارسال پیامک</a>
-مراجعه کنید
+#Contribution
+Bug fixes, docs, and enhancements welcome! Please let us know <a href="mailto:support@kavenegar.com?Subject=SDK" target="_top">support@kavenegar.com</a>
+<hr>
 
-###مستندات
-<p>
-برای مطالعه مستندات کار با 
-<a href="http://kavenegar.com"  target="_blank">وب سرویس اس ام اس</a>
-کاوه نگار به سفحه <a href="http://kavenegar.com/rest.html">مستندات</a>مراجعه کنید
-</p>
-###معرفی وب سرویس کاوه نگار
-<p>
-برای مشاهده ویژگی های 
-<a href="http://kavenegar.com/%D9%88%D8%A8-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%BE%DB%8C%D8%A7%D9%85%DA%A9.html">
-وب سرویس پیامک
-</a>
-کاوه نگار به صفحه  وب سرویس مراجعه نمائید
-</p>
-### ایجاد حساب کاربری
-<p>
-و بالاخره اگر در استفاده از سرویس کاوه نگار مشکلی داشتید یا پیشنهاد همکاری  بود لطفا حتما به ما اطلاع دهید
-<br>
-<a href="mailto:support@kavenegar.com">support@kavenegar.com</a>
+<div dir='rtl'>
+
+<h4 id="">راهنمای فارسی</h4>
+<h5 id="-1">راهنما</h5>
+<p>در صورتی که مایل هستید راهنمای فارسی کیت توسعه کاوه نگار را مطالعه کنید به صفحه
+<a href="http://kavenegar.com/sdk.html">کد ارسال پیامک</a> 
+مراجعه کنید.</p>
+<h5 id="-2">مستندات</h5>
+<p>برای مطالعه مستندات کار با
+<a href="http://kavenegar.com"> وب سرویس اس ام اس</a>
+کاوه نگار به صفحه <a href="http://kavenegar.com/rest.html">مستندات</a>مراجعه کنید</p>
+<h5 id="-3">معرفی وب سرویس کاوه نگار</h5>
+<p>برای مشاهده ویژگی های وب سرویس پیامک کاوه نگار به <a href="http://kavenegar.com/%D9%88%D8%A8%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%BE%DB%8C%D8%A7%D9%85%DA%A9.html">صفحه  وب سرویس</a>مراجعه نمائید.</p>
+<h5 id="-4">ایجاد حساب کاربری</h5>
+<p>و بالاخره اگر در استفاده از سرویس کاوه نگار مشکلی داشتید یا پیشنهاد همکاری  بود لطفا حتما به ما اطلاع دهید.</p>
+<p><a href="mailto:support@kavenegar.com">support@kavenegar.com</a></p>
+</div>
 
 </p>
+</div>
+
